@@ -15,7 +15,8 @@ Senior Software Engineer @nicolabio. Always looking for interesting Open Source 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=webstradev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=webstradev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
+# 📊 CNCF Stats:
+[![DevStats Card](https://devstats.me/?username=webstradev)](https://github.com/tico88612/devstats-card)
 ---
 [![](https://visitcount.itsvg.in/api?id=webstradev&icon=0&color=0)](https://visitcount.itsvg.in)
 
